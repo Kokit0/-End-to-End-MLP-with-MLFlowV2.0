@@ -58,6 +58,8 @@ Now,
 open up you local host and port
 ```
 
+### dataset will be stored here (but should then be moved or deleted after pipeline is created for final construction steps):
+https://github.com/Kokit0/-End-to-End-MLP-with-MLFlowV2.0/raw/main/data.zip
 
 
 ## MLflow
